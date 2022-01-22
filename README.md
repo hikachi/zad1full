@@ -12,5 +12,5 @@ architektura
 ![Image1](https://github.com/hikachi/zad1full/blob/main/client/src/schemat.svg)
 
 Screeny działającej aplikacji
-![Image2](https://github.com/hikachi/zad1full/blob/main/ss/help.png)
-![Image3](https://github.com/hikachi/zad1full/blob/main/ss/fibo.png)
+![Image2](https://github.com/hikachi/zad1full/blob/main/ss/help.PNG)
+![Image3](https://github.com/hikachi/zad1full/blob/main/ss/fibo.PNG)
